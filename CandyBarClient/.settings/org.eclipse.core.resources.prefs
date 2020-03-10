@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/candybar/model/Item.java=UTF-8
+encoding//src/com/candybar/service/ItemServiceImpl.java=UTF-8
+encoding//src/com/candybar/service/ItemServiceImplService.java=UTF-8
+encoding//src/com/candybar/service/ItemServiceImplServiceLocator.java=UTF-8
+encoding//src/com/candybar/service/ItemServiceImplSoapBindingStub.java=UTF-8
